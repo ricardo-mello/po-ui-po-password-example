@@ -1,3 +1,3 @@
-# angular-ivy-vds2va
+# PO UI Password Example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-vds2va)
+Repository created to demonstrate a problem with po-password component when browser have saved passwords
